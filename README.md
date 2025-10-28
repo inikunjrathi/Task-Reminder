@@ -5,7 +5,7 @@ A feature-rich desktop application built with Java Swing for managing tasks with
 ![Java](https://img.shields.io/badge/Java-8%2B-orange)
 ![Swing](https://img.shields.io/badge/GUI-Swing-blue)
 ![JSON](https://img.shields.io/badge/Storage-JSON-green)
-![License](https://img.shields.io/badge/License-Educational-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## 📸 Features
 
